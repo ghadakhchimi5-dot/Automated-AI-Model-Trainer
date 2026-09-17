@@ -1,0 +1,45 @@
+models:
+  - id: "Qwen/Qwen2.5-0.5B-Instruct"
+    name: "Qwen 2.5 0.5B"
+    params_b: 0.5
+    vram_min_gb: 2
+    vram_qlora_gb: 1
+    supports_vision: false
+    recommended_for: ["demo", "cpu", "low_vram"]
+    tags: ["fast", "lightweight"]
+
+  - id: "Qwen/Qwen2.5-1.5B-Instruct"
+    name: "Qwen 2.5 1.5B"
+    params_b: 1.5
+    vram_min_gb: 4
+    vram_qlora_gb: 2
+    supports_vision: false
+    recommended_for: ["demo", "low_vram"]
+    tags: ["balanced"]
+
+  - id: "Qwen/Qwen2.5-3B-Instruct"
+    name: "Qwen 2.5 3B"
+    params_b: 3
+    vram_min_gb: 8
+    vram_qlora_gb: 4
+    supports_vision: false
+    recommended_for: ["balanced", "low_vram"]
+    tags: ["balanced"]
+
+  - id: "Qwen/Qwen2.5-7B-Instruct"
+    name: "Qwen 2.5 7B"
+    params_b: 7
+    vram_min_gb: 16
+    vram_qlora_gb: 6
+    supports_vision: false
+    recommended_for: ["production"]
+    tags: ["powerful"]
+
+  - id: "Qwen/Qwen2.5-14B-Instruct"
+    name: "Qwen 2.5 14B"
+    params_b: 14
+    vram_min_gb: 30
+    vram_qlora_gb: 12
+    supports_vision: false
+    recommended_for: ["production", "high_end"]
+    tags: ["powerful"]
