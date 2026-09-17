@@ -88,3 +88,7 @@ Each run creates:
 - `<run_name>_model.zip`
 
 The zip can be loaded back into the app for inference.
+
+
+## Platform demonstration
+
