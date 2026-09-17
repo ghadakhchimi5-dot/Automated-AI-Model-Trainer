@@ -1,4 +1,4 @@
-# GHD Automatic Trainer
+# Automated AI Model Trainer
 
 This is a one-click replacement for the previous multi-page Streamlit demo. It automates:
 
