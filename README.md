@@ -1,7 +1,9 @@
 # Automated AI Model Trainer
 
 ## Platform's demonstration
-👉 [Watch the demo video](Assets_backup/demo.mp4)
+## 🎥 Demo
+
+[![Watch the demo](Assets/demo_preview.png)](Assets_backup/demo.mp4)
 
 
 This is a one-click replacement for the previous multi-page Streamlit demo. It automates:
