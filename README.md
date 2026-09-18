@@ -1,6 +1,6 @@
 # Automated AI Model Trainer
 
-## Platform's demonstration
+## Platform's demo
 
 https://github.com/user-attachments/assets/23fc8043-867e-4994-a40a-486db3bebd72
 
