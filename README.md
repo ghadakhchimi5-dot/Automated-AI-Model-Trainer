@@ -2,9 +2,11 @@
 
 ## Platform's demonstration
 ## 🎥 Demossets_backup
-demo.mp4
 
-Assets_backup/demo (1).mp4
+
+https://github.com/user-attachments/assets/23fc8043-867e-4994-a40a-486db3bebd72
+
+
 
 
 This is a one-click replacement for the previous multi-page Streamlit demo. It automates:
