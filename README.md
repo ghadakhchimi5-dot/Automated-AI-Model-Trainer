@@ -1,5 +1,9 @@
 # Automated AI Model Trainer
 
+## Platform's demonstration
+👉 [Watch the demo video](Assets_backup/demo.mp4)
+
+
 This is a one-click replacement for the previous multi-page Streamlit demo. It automates:
 
 1. dataset loading
@@ -90,5 +94,4 @@ Each run creates:
 The zip can be loaded back into the app for inference.
 
 
-## Platform demonstration
 
